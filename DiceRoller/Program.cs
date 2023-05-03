@@ -10,8 +10,6 @@
 
 
 
-int die1;
-int die2;
 
 
 
